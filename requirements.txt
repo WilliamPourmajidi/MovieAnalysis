@@ -15,7 +15,7 @@ Flask==1.1.1
 gcloud==0.17.0
 googleapis-common-protos==1.5.3
 holidays==0.9.9
-httplib2==0.10.3
+httplib2==0.18.0
 importlib-metadata==0.23
 ipykernel==5.1.2
 ipython==7.8.0
